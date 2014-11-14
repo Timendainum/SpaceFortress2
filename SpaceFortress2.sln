@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLogicLibrary", "ClientLogicLibrary\ClientLogicLibrary.csproj", "{E8B0C7D6-6E0E-4366-87E5-79895F744E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client\Client.csproj", "{CBA0800F-44D7-404E-9A51-F16C754286F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientContent", "Client\ClientContent\ClientContent.contentproj", "{5AA3EBA6-F7B5-43F7-9931-4BB96EC5AB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogicLibrary", "GameLogicLibrary\GameLogicLibrary.csproj", "{AEC6F4A1-C0F3-449C-A09C-C21F9679A679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B0C7D6-6E0E-4366-87E5-79895F744E3B}.Debug|x86.ActiveCfg = Debug|x86
+		{E8B0C7D6-6E0E-4366-87E5-79895F744E3B}.Debug|x86.Build.0 = Debug|x86
+		{E8B0C7D6-6E0E-4366-87E5-79895F744E3B}.Release|x86.ActiveCfg = Release|x86
+		{E8B0C7D6-6E0E-4366-87E5-79895F744E3B}.Release|x86.Build.0 = Release|x86
+		{CBA0800F-44D7-404E-9A51-F16C754286F8}.Debug|x86.ActiveCfg = Debug|x86
+		{CBA0800F-44D7-404E-9A51-F16C754286F8}.Debug|x86.Build.0 = Debug|x86
+		{CBA0800F-44D7-404E-9A51-F16C754286F8}.Release|x86.ActiveCfg = Release|x86
+		{CBA0800F-44D7-404E-9A51-F16C754286F8}.Release|x86.Build.0 = Release|x86
+		{5AA3EBA6-F7B5-43F7-9931-4BB96EC5AB0F}.Debug|x86.ActiveCfg = Debug|x86
+		{5AA3EBA6-F7B5-43F7-9931-4BB96EC5AB0F}.Release|x86.ActiveCfg = Release|x86
+		{AEC6F4A1-C0F3-449C-A09C-C21F9679A679}.Debug|x86.ActiveCfg = Debug|x86
+		{AEC6F4A1-C0F3-449C-A09C-C21F9679A679}.Debug|x86.Build.0 = Debug|x86
+		{AEC6F4A1-C0F3-449C-A09C-C21F9679A679}.Release|x86.ActiveCfg = Release|x86
+		{AEC6F4A1-C0F3-449C-A09C-C21F9679A679}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
